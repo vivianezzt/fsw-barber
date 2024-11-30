@@ -1,8 +1,8 @@
 ## Starting project
 - [x] Creation of the database setup
 - [x] Creating database seeding
-- [] Introduction to next.js
-- [] Introduction to tailwind and Shadcn
+- [x] Introduction to next.js
+- [x] Introduction to tailwind and Shadcn
 - [] Git Hooks 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
