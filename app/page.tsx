@@ -1,13 +1,12 @@
 "use client"
 
 import { useState } from "react";
+import { Button } from "./_components/ui/button";
 
 const Home = () => {
   const [] = useState();
   return (
-    <div>
-      <h1 className="text-red-500 mb-5 bg-red-400">Home</h1>
-    </div>
+   <Button>Test</Button> 
   );
 }
 
